@@ -9,7 +9,7 @@ export default function Contact() {
             </h2>
             <div className="w-24 h-2 bg-yellow-500 mx-auto rounded-full"></div>
             <p className="mt-6 font-bold text-slate-600 text-2xl">
-                VISIT OUR WAREHOUSE / SHOPROOM !!!
+                VISIT OUR WAREHOUSE / SHOWROOM !!!
             </p>
         </div>
 
