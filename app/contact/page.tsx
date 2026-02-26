@@ -29,7 +29,7 @@ export default function Contact() {
                     <h4 className="font-bold text-slate-800 text-lg mb-1">Address</h4>
                     <p className="text-slate-600 leading-relaxed">
                     17-19 Murdock St.<br />
-                    Calyton South, VIC 3026 Austrailia<br />
+                    Clayton South, VIC 3169 Austrailia<br />
                     </p>
                 </div>
                 </div>
@@ -41,9 +41,9 @@ export default function Contact() {
                 </div>
                 <div>
                     <h4 className="font-bold text-slate-800 text-lg mb-1">Phone</h4>
-                    <p className="text-slate-600">Office: +61 3 9543 6021 / +61 420 316 021</p>
-                    <p className="text-slate-600">Sales1: +61 449 521 839</p>
-                    <p className="text-slate-600">Sales2: +61 4525 576 990</p>
+                    <p className="text-slate-600">Office: +61 03 9543 6021 / +61 0420 316 021</p>
+                    <p className="text-slate-600">Sales1: +61 0449 521 839</p>
+                    <p className="text-slate-600">Sales2: +61 0452 576 990</p>
                 </div>
                 </div>
 
